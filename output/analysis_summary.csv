@@ -1,0 +1,6 @@
+session_id,participant_id,classification,usable_windows,total_windows
+FIT-2026-001,P001,resting,6,6
+FIT-2026-002,P002,moderate activity,6,6
+FIT-2026-003,P003,high activity,6,6
+FIT-2026-004,P001,high activity,6,6
+FIT-2026-101,P001,insufficient data,2,4

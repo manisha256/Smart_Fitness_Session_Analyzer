@@ -1,0 +1,16 @@
+REJECTED RECORDS LOG
+============================================================
+File: fitness_sessions.csv      | Row: 26   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Low signal quality: 0.34
+File: fitness_sessions.csv      | Row: 27   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Low signal quality: 0.29
+File: fitness_sessions.csv      | Row: 28   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Low signal quality: 0.25
+File: fitness_sessions.csv      | Row: 29   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Low signal quality: 0.31
+File: fitness_sessions.csv      | Row: 30   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Low signal quality: 0.28
+File: fitness_sessions_invalid.csv | Row: 3    | Field: Type Conversion | Reason: Failed conversion: could not convert string to float: 'fast'
+File: fitness_sessions_invalid.csv | Row: 4    | Field: Type Conversion | Reason: Failed conversion: Participant ID '001' not found in profiles.
+File: fitness_sessions_invalid.csv | Row: 5    | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Invalid activity level: None
+File: fitness_sessions_invalid.csv | Row: 7    | Field: Type Conversion | Reason: Failed conversion: Invalid Session ID format: 'FIT-26-102' (Expected FIT-YYYY-NNN)
+File: fitness_sessions_invalid.csv | Row: 8    | Field: Type Conversion | Reason: Failed conversion: Participant ID 'P999' not found in profiles.
+File: fitness_sessions_invalid.csv | Row: 9    | Field: Type Conversion | Reason: Failed conversion: invalid literal for int() with base 10: 'two'
+File: fitness_sessions_invalid.csv | Row: 10   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Invalid heart rate: -15.0
+File: fitness_sessions_invalid.csv | Row: 11   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Invalid skin response: -0.5, Invalid temperature: 55.0, Invalid activity level: 1.3
+File: fitness_sessions_invalid.csv | Row: 12   | Field: Type Conversion | Reason: Failed conversion: Measurement validation failed: Low signal quality: None

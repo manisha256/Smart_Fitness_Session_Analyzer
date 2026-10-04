@@ -1,0 +1,28 @@
+FITNESS SESSION ANALYSIS REPORT
+==================================================
+
+Session ID  : FIT-2026-001
+Participant : P001
+Result      : RESTING
+Explanation : Heart rate remained close to resting baseline with minimal physical movement.
+--------------------------------------------------
+Session ID  : FIT-2026-002
+Participant : P002
+Result      : MODERATE ACTIVITY
+Explanation : Moderate heart rate elevation and steady physical movement detected.
+--------------------------------------------------
+Session ID  : FIT-2026-003
+Participant : P003
+Result      : HIGH ACTIVITY
+Explanation : High mean activity levels and substantial heart rate elevation above baseline.
+--------------------------------------------------
+Session ID  : FIT-2026-004
+Participant : P001
+Result      : HIGH ACTIVITY
+Explanation : High mean activity levels and substantial heart rate elevation above baseline.
+--------------------------------------------------
+Session ID  : FIT-2026-101
+Participant : P001
+Result      : INSUFFICIENT DATA
+Explanation : Only 2/4 observations were valid (50.0%). Minimum 50% valid data required for classification.
+--------------------------------------------------
